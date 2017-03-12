@@ -1,0 +1,30 @@
+body{
+	background-image: url("/back.jpg");
+	margin: 20px;
+	background-position: center center;
+	backkground-size: 100% 100%;
+	background-repeat:none;
+}
+
+.pozdrowienia{
+	min-height: 250px;
+}
+.panel-body{
+	height:400px;
+}
+
+.chat{
+	height: 400px;
+	overflow-y:scroll;
+}
+			
+.lista-przebojow{
+	width:100%;
+	padding:0px;
+	max-width:590;
+}
+
+.logo{
+	color: white;
+	font-size: 50px;
+}
